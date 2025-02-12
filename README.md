@@ -57,7 +57,7 @@ Tips, and Tactics"**.
 ### Want to Learn How to write image prompts for Midjourney AI?
 
 I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating
-Images from Text"**.
+Images from Text"**. 
 
 📖
 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
